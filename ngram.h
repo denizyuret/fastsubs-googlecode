@@ -7,6 +7,7 @@
  * representing count.  The actual tokens are in positions 1..n.
  */
 
+/* this is a typedef */
 typedef Token *Ngram;
 
 #define ngram_size(p) ((p)[0])
